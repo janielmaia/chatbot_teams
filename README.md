@@ -1,6 +1,6 @@
 # Projeto de Chatbot 
 
-Reposiório destinado a descrição do **Chatbot** para o levantamento de premissas de abertura de chamados:
+Repositório destinado a descrição do **Chatbot** para o levantamento de premissas de abertura de chamados:
 O objetivo deste repositório é disseminar conhecimentos utilizando ferramentas da microsoft disponivel no mercado.
 Para isso, a atividade constou nas seguintes etapas:
 
